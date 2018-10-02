@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jordan van Zyl - GADE - Task 2", "Jordan van Zyl - GADE - Task 2\Jordan van Zyl - GADE - Task 2.csproj", "{329EE65B-7CE4-4ABA-82FA-36E74F0256EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329EE65B-7CE4-4ABA-82FA-36E74F0256EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329EE65B-7CE4-4ABA-82FA-36E74F0256EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329EE65B-7CE4-4ABA-82FA-36E74F0256EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329EE65B-7CE4-4ABA-82FA-36E74F0256EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774360B9-98EE-4BD9-A83F-8573246AE925}
+	EndGlobalSection
+EndGlobal
