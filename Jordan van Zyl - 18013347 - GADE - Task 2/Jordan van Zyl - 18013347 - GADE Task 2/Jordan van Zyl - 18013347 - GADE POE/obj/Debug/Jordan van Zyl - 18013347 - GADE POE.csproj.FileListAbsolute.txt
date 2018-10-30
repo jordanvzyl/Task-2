@@ -1,0 +1,10 @@
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\bin\Debug\Jordan van Zyl - 18013347 - GADE POE.exe.config
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\bin\Debug\Jordan van Zyl - 18013347 - GADE POE.exe
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\bin\Debug\Jordan van Zyl - 18013347 - GADE POE.pdb
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\obj\Debug\Jordan van Zyl - 18013347 - GADE POE.csprojAssemblyReference.cache
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\obj\Debug\Jordan_van_Zyl___18013347___GADE_POE.Game.resources
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\obj\Debug\Jordan_van_Zyl___18013347___GADE_POE.Properties.Resources.resources
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\obj\Debug\Jordan van Zyl - 18013347 - GADE POE.csproj.GenerateResource.cache
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\obj\Debug\Jordan van Zyl - 18013347 - GADE POE.csproj.CoreCompileInputs.cache
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\obj\Debug\Jordan van Zyl - 18013347 - GADE POE.exe
+D:\Documents\Vega\GADE\Visual Studio Projects\Jordan van Zyl - 18013347 - GADE POE\Jordan van Zyl - 18013347 - GADE POE\obj\Debug\Jordan van Zyl - 18013347 - GADE POE.pdb
